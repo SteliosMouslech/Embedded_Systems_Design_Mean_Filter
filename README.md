@@ -28,6 +28,6 @@ In this part using the best version from the previous part we implement differen
 
 ## Part 3 - Data Reusability
 
-In the final Part of the project we implement a very fast "Cache-like" memory on the previous version and try to reduce the **Total Execution Cycles** of our program using data reusability techniques. We also try to reduce the "overhead" of adding our data reusability method
+In the final Part of the project we implement a very fast "Cache-like" memory on the previous version and try to reduce the **Total Execution Cycles** of our program using data reusability techniques. We also try to reduce the "overhead" of additional instructions which correspond to our data reusability technique 
 
-<img src="https://github.com/SteliosMouslech/Embedded_Systems_Design_Median_Filter/blob/main/part3_readme.PNG" width="800" height="400">
+<img src="https://github.com/SteliosMouslech/Embedded_Systems_Design_Median_Filter/blob/main/part3_readme.PNG" width="900" height="400">
