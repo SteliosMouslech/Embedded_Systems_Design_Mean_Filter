@@ -24,7 +24,7 @@ In the first part of the project we assume ideal memory and we
 ## Part 2 - Memory Hierarchy
 In this part using the best version from the previous part we implement different memory hierarchies and measure the trade-off between memory size/speed and execution time
 
-<img src="https://github.com/SteliosMouslech/Embedded_Systems_Design_Median_Filter/blob/main/part2_readme.png" width="700" height="400">
+<img src="https://github.com/SteliosMouslech/Embedded_Systems_Design_Median_Filter/blob/main/part2_readme.png" width="650" height="400">
 
 ## Part 3 - Data Reusability
 
