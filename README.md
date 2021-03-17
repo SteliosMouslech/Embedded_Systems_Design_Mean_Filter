@@ -1,6 +1,6 @@
 
 # Embedded Systems Design: Mean Filter
-A repository containing the project done during the 9th semester university subject "Embedded Systems Design"
+A repository containing the project done during the 9th semester university subject "Embedded Systems Design". The project reports are in Greek
 
 
 ### Team Members
